@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naga251602
+- 👋 Hi, I’m GAURAV NAGALAPURAM VENKATARAMANAN
 - 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning Data Science and Machine learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
