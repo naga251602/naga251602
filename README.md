@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GAURAV NAGALAPURAM VENKATARAMANAN
-- 👀 I’m interested in Software Engineering and Data Science
+- 👀 I’m a Full Stack Developer and Data Scientist
 - 🌱 I’m currently learning Data Science and Machine learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me gauravnagalapuram@gmail.com
