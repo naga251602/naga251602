@@ -2,7 +2,7 @@
   <h1>👋 Hi there! I'm Gaurav Nagalapuram Venkataramanan</h1>
 
   <p>
-    <a href="https://www.linkedin.com/in/gaurav-nagalapuram-25a19134a/" target="_blank">
+    <a href="https://www.linkedin.com/in/gauravnv/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/naga251602/" target="_blank">
