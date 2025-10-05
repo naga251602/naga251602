@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: get Solutions on Dreams and use them to solve real world problems
 - Socials: LeetCode ( @naga251602 ), LinkedIn ( gauravnagalapuram )
-![My GitHub Stats](https://github-readme-stats.com/api/top-langs/?username=naga251602&layout=compact)
+- !![GitHub Stats](https://github-readme-stats.com/api/top-langs/?username=naga251602&layout=compact)
 <!---
 naga251602/naga251602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
