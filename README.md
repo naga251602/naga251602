@@ -32,11 +32,11 @@
 I build software that blends full stack engineering with applied AI.  
 My focus is on developing clean, scalable, and intelligent systems that solve practical problems.
 
-I’m currently exploring:
+I’m currently working on:
 
 - AI-powered workflows inside real applications  
 - Efficient data processing engines and ML automation  
-- Large-scale, production-ready system design  
+- Production-ready system design at scale  
 
 Reach me at **gauravnagalapuram@gmail.com**
 
@@ -68,16 +68,16 @@ Reach me at **gauravnagalapuram@gmail.com**
 
 | Project | Description | Status |
 | :-- | :-- | :-- |
-| **[AIStora](https://github.com/naga251602/AIStora)** | End-to-end AI analytics platform with Flask + Next.js. Implements a custom in-memory data engine for SQL-like operations on CSVs, natural language querying using Gemini, automatic schema detection, and real-time visualizations. | In active development (production-focused) |
+| **[AiStoria](https://github.com/naga251602/AiStoria)** | End-to-end AI analytics platform built with Flask + Next.js. Includes a custom in-memory data engine for SQL-like operations on CSVs, natural language querying via Gemini, automatic schema detection, and real-time visualizations. | Active development (production-focused) |
 | **[pdf-filler-chatbot](https://github.com/naga251602/pdf-filler-chatbot)** | AI assistant that fills PDF forms using Gemini, automating repetitive data entry. | Preparing for deployment |
-| **[gchat](https://github.com/naga251602/gchat)** | Real-time chat platform built with Next.js, TypeScript, and Firebase. | Full stack showcase |
-| **[nodeblog](https://github.com/naga251602/nodeblog)** | Blog application using HTML, CSS, JS, and Supabase with clean architecture. | Strong fundamentals project |
+| **[gchat](https://github.com/naga251602/gchat)** | Real-time chat application using Next.js, TypeScript, and Firebase. | Full-stack showcase |
+| **[nodeblog](https://github.com/naga251602/nodeblog)** | Blog platform using HTML, CSS, JS, and Supabase with clean architecture. | Strong fundamentals project |
 
 ---
 
 <div align="center">
 
 ⭐ Stars motivate me to keep building and improving.  
-✨ Currently shaping AIStora into a production-grade AI data platform.
+✨ AiStoria is my current focus — shaping it into a production-grade AI data platform.
 
 </div>
