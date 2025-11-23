@@ -68,7 +68,7 @@ Reach me at **gauravnagalapuram@gmail.com**
 
 | Project | Description | Status |
 | :-- | :-- | :-- |
-| **[AiStoria](https://github.com/naga251602/AiStoria)** | End-to-end AI analytics platform built with Flask + Next.js. Includes a custom in-memory data engine for SQL-like operations on CSVs, natural language querying via Gemini, automatic schema detection, and real-time visualizations. | Active development (production-focused) |
+| **[AiStoria](https://github.com/naga251602/AiStora)** | End-to-end AI analytics platform built with Flask + Next.js. Includes a custom in-memory data engine for SQL-like operations on CSVs, natural language querying via Gemini, automatic schema detection, and real-time visualizations. | Active development (production-focused) |
 | **[pdf-filler-chatbot](https://github.com/naga251602/pdf-filler-chatbot)** | AI assistant that fills PDF forms using Gemini, automating repetitive data entry. | Preparing for deployment |
 | **[gchat](https://github.com/naga251602/gchat)** | Real-time chat application using Next.js, TypeScript, and Firebase. | Full-stack showcase |
 | **[nodeblog](https://github.com/naga251602/nodeblog)** | Blog platform using HTML, CSS, JS, and Supabase with clean architecture. | Strong fundamentals project |
