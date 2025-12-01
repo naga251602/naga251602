@@ -1,30 +1,27 @@
-<h3>🚀 Gaurav — AI Engineer & Full-Stack Developer</h3>
-<hr />
+<h2 >🚀 Gaurav — AI Engineer & Full-Stack Developer</h2>
+</br>
 <img src="https://pacman.abozanona.me?username=naga251602" />
 
-#### 🛠️ Technical Skills
+<h2> 🛠️ Technical Skills </h2>
 
 <div>
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,java,cpp,js,ts,react,nextjs,tailwind,html,css,flask,fastapi,postgres,docker,git,github,linux" />
 </div>
 
 
-#### 📊 Stats
+<h2>📊 Stats</h2>
 
 <div >
   <img src="https://streak-stats.demolab.com?user=naga251602&theme=tokyonight&hide_border=true" height="160" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naga251602&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga251602&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
-#### 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=naga251602&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true" />
 </div>
 
-### 🌐 Connect with Me
+<h2>🌐 Connect with Me</h2> 
 
 <a href="https://www.linkedin.com/in/gauravnv/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
