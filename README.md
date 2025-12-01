@@ -1,4 +1,11 @@
 <h2 >🚀 Gaurav — AI Engineer & Full-Stack Developer</h2>
+
+- 🎓 MS in Applied Data Science @ **USC Viterbi**
+- 🧠 I build full-stack applications powered by practical AI  
+- ⚙️ Love working with **Python, TypeScript, ML models, and backend systems**
+- 🤖 Currently developing **AIStora**, an AI-powered analytics engine
+- 🚀 Interested in scalable systems, data engines, and applied machine learning
+
 </br>
 <img src="https://pacman.abozanona.me?username=naga251602" />
 
