@@ -20,7 +20,23 @@
 
 <div >
   <img src="https://streak-stats.demolab.com?user=naga251602&theme=tokyonight&hide_border=true" height="160" />
+    <img 
+    src="https://github-readme-stats.vercel.app/api?username=naga251602&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+    <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga251602&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </div>
+
+
+<h2>💻 Most Used Languages</h2>
+
+<div>
+
+</div>
+
 
 <h2>🏆 GitHub Trophies</h2>
 
