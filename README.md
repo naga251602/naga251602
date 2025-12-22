@@ -30,20 +30,6 @@
   />
 </div>
 
-
-<h2>💻 Most Used Languages</h2>
-
-<div>
-
-</div>
-
-
-<h2>🏆 GitHub Trophies</h2>
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=naga251602&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true" />
-</div>
-
 <h2>🌐 Connect with Me</h2> 
 
 <a href="https://www.linkedin.com/in/gauravnv/" target="_blank">
