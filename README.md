@@ -1,34 +1,24 @@
-<h2 >🚀 Gaurav — AI Engineer & Full-Stack Developer</h2>
-
-- 🎓 MS in Applied Data Science @ **USC Viterbi**
-- 🧠 I build full-stack applications powered by practical AI  
-- ⚙️ Love working with **Python, TypeScript, ML models, and backend systems**
-- 🤖 Currently developing **AIStora**, an AI-powered analytics engine
-- 🚀 Interested in scalable systems, data engines, and applied machine learning
-
-</br>
 <img src="https://pacman.abozanona.me?username=naga251602" />
 
-<h2> 🛠️ Technical Skills </h2>
+Building systems that move data fast and make it useful — analytics engines, backend APIs, applied ML.
+Currently working on [AIStora](https://github.com/naga251602/AIStora), a privacy-first AI analytics platform for small businesses.
 
-<div>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,java,cpp,js,ts,react,nextjs,tailwind,html,css,flask,fastapi,postgres,docker,git,github,linux" />
-</div>
+---
 
+### Stack
 
-<h2>📊 Stats</h2>
+<img src="https://skillicons.dev/icons?i=py,cpp,go,ts,react,nextjs,fastapi,postgres,docker,git,linux" />
 
-<div >
-  <img src="https://streak-stats.demolab.com?user=naga251602&theme=tokyonight&hide_border=true" height="160" />
-</div>
+---
 
-<h2>🌐 Connect with Me</h2> 
+### Stats
 
-<a href="https://www.linkedin.com/in/gauravnv/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=naga251602&theme=tokyonight&hide_border=true" height="160" />
 
-<a href="mailto:gauravnagalapuram@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravnv-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravnv/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-gauravnagalapuram@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravnagalapuram@gmail.com)
