@@ -12,9 +12,9 @@ Currently working on [AIStora](https://github.com/naga251602/AIStora), a privacy
 ---
 
 ### Stats
-
-<img src="https://streak-stats.demolab.com?user=naga251602&theme=tokyonight&hide_border=true" height="160" />
-
+| | |
+|---|---|
+| <img src="https://streak-stats.demolab.com?user=naga251602&theme=tokyonight&hide_border=true" height="160" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naga251602&theme=tokyonight" height="160" /> |
 ---
 
 ### Connect
