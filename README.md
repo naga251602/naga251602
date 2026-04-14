@@ -3,6 +3,8 @@
 Building systems that move data fast and make it useful — analytics engines, backend APIs, applied ML.
 Currently working on [AIStora](https://github.com/naga251602/AIStora), a privacy-first AI analytics platform for small businesses.
 
+![Profile Views](https://komarev.com/ghpvc/?username=naga251602&style=flat-square&color=brightgreen)
+
 ---
 
 ### Stack
