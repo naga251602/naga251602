@@ -23,4 +23,4 @@ Currently working on [AIStora](https://github.com/naga251602/AIStora), a privacy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravnv-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravnv/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-gauravnagalapuram@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravnagalapuram@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nv.gau16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nv.gau16@gmail.com)
