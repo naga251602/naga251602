@@ -3,7 +3,6 @@
 I'm a USC grad student (M.S. Data Science) building production full-stack and backend systems in Go, Python, TypeScript, and React. Shipped a GraphQL API holding sub-100ms p99 latency at 1,000+ concurrent WebSocket users, a columnar analytics engine outperforming Pandas 3× on 100K+ row datasets, and a deep neural net IPL predictor hitting 80% accuracy with GATs and Monte Carlo simulation. Co-authored 3 IEEE papers, one of which placed 3rd Best Paper. Currently looking for Summer 2026 SWE internships.
 
 For projects before 2025 refer, [github.com/gauravnv16](https://github.com/gauravnv16) <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=naga251602&style=flat-square&color=brightgreen)
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,6 +27,7 @@ For projects before 2025 refer, [github.com/gauravnv16](https://github.com/gaura
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravnv-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravnv/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-nv.gau16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nv.gau16@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=naga251602&style=flat-square&color=brightgreen)
 
 ---
 
