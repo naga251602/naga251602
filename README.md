@@ -32,8 +32,6 @@ For projects before 2025 refer, [github.com/gauravnv16](https://github.com/gaura
 ---
 
 ### GitHub Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naga251602&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats-fast.vercel.app/api?username=naga251602&show_icons=true&theme=tokyonight&hide_border=true" /></td>
