@@ -39,5 +39,3 @@ For projects before 2025 refer, [github.com/gauravnv16](https://github.com/gaura
     <td colspan="2" align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naga251602&layout=compact&theme=tokyonight&hide_border=true" /></td>
   </tr>
 </table>
-
----
